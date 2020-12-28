@@ -15,7 +15,7 @@ Le challenge étant de combiner :
 - **Que ce soit beau** Que ça fasse professionnel. Que ça n’ait pas l’air d’un
   vieux markdown tout moche.
 - **Que ce soit portable** Que si je change d’hébergeur, ou si je veux le
-  mettre sur la page du site de mon institution, etc. ce soit juste faisable.
+  mettre sur la page du site de mon institution, _etc._ ce soit juste faisable.
 
 La combinaison de tout ça semble entraîner que je veux du html, css, js un peu
 compliqué, pour faire des trucs beaux, mais que je ne veux pas l’écrire
@@ -77,7 +77,7 @@ J’ai lu
 
 - Jekyll and WordPress on the other hand have complex Ruby and PHP
   dependencies, respectively. (Contrairement à Hugo qui est assez simple et
-  assew self-contained.) Jekyll took significantly longer and occasionally
+  assez self-contained.) Jekyll took significantly longer and occasionally
   stopped working due to dependencies becoming deprecated or packages requiring
   to be manually updated.
 
