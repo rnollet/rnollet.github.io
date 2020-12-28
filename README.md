@@ -80,3 +80,23 @@ J’ai lu
   assew self-contained.) Jekyll took significantly longer and occasionally
   stopped working due to dependencies becoming deprecated or packages requiring
   to be manually updated.
+
+
+Pour wowchemy et hugo, il me semble que je veux un des deux templates Academic
+ou Blog.
+
+Wowchemy a l’air très compliqué, pleins de trucs dans tous les sens, un peu
+confus. J’ai peut-être intérêt à commencer avec juste Hugo ?
+
+- Ceci semble être la méthode de déploiement simple dont j’ai envie :
+  https://gohugo.io/hosting-and-deployment/deployment-with-rsync/
+- GitHub Pages est séduisant pour le côté qu’il suffit de push MAIS :
+  * Je veux commit et push les fichiers que j’édite, pas ceux qui sont générés
+    automatiquement. Or GitHub Pages nécessiterait précisément le contraire.
+  * Ça force à ce que le repo soit public (ou alors il faut payer). Est-ce une
+    bonne chose ? Non, je n’ai pas forcément envie que les gens soient libre
+    d’aller voir
+    + partout sur mon site : je peux avoir envie de pages cachées dont je donne
+      le lien seulement à certains
+    + dans mon historique
+  * Autant profiter de l’occasion pour utiliser et m’approprier mon serveur.
